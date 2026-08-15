@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to Remove Duplicates in Power Query</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_Remove_Duplicates_in_Power_Query_ORG">
+    <organization identifier="How_to_Remove_Duplicates_in_Power_Query_ORG">
+      <title>How to Remove Duplicates in Power Query</title>
+      <item identifier="How_to_add_a_background_to_a_worksheet_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to Remove Duplicates in Power Query</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/65hHySNzmLE_P_0_24_1920_1056.png" />
+      <file href="story_content/6ZgZKqNEF7l_44100_48_0.mp3" />
+      <file href="mobile/5kpUvn4PG0G_P_0_24_1920_779.png" />
+      <file href="mobile/6c7L9OnADWQ_P_0_24_1920_1056.png" />
+      <file href="story_content/5w7lh07rTWa_44100_48_0.mp3" />
+      <file href="mobile/6B0EcsLMH1N_P_0_24_1920_910.png" />
+      <file href="mobile/5ZsBdNvjbmt_P_0_24_1920_1056.png" />
+      <file href="story_content/5aI2fn6GVKO_44100_48_0.mp3" />
+      <file href="mobile/66cO0ivrDN6_P_0_24_1920_910.png" />
+      <file href="mobile/5diK4msjYEv_P_0_24_1920_1056.png" />
+      <file href="story_content/5y66Aiwy49p_44100_48_0.mp3" />
+      <file href="mobile/6IhAEVU4V1T_P_0_24_1920_765.png" />
+      <file href="mobile/6kaGQCzvcKe_P_0_24_1920_1056.png" />
+      <file href="story_content/6bX8QIOiOfK_44100_48_0.mp3" />
+      <file href="mobile/5x0rDHAg8Y1_P_0_24_1920_910.png" />
+      <file href="mobile/6Sbxyv2OSCw_P_0_24_1920_1056.png" />
+      <file href="story_content/5a1yRPQU68X_44100_48_0.mp3" />
+      <file href="mobile/5t2QglzECBL_P_0_24_1920_778.png" />
+      <file href="mobile/5plZYvj127e_P_0_24_1920_1056.png" />
+      <file href="story_content/62Cza8Hy9lG_44100_48_0.mp3" />
+      <file href="mobile/6bxibXxetiR_P_0_24_1920_910.png" />
+      <file href="mobile/6jmPy7uXy75_P_0_24_1920_1056.png" />
+      <file href="story_content/5vPqmXHVuYp_44100_48_0.mp3" />
+      <file href="mobile/6H2CPCOKei7_P_0_24_1920_764.png" />
+      <file href="mobile/6OOgPin5qmn_P_0_24_1920_1056.png" />
+      <file href="story_content/6CkBsKYMU9k_44100_48_0.mp3" />
+      <file href="story_content/5YEHqjmHI8m_44100_48_0.mp3" />
+      <file href="mobile/5WVjrslCNad.png" />
+      <file href="mobile/6Coxqe350C5_P_0_24_1920_1056.png" />
+      <file href="story_content/6HDQvqpoqI9_44100_48_0.mp3" />
+      <file href="mobile/5t2QglzECBL_P_0_24_876_144.png" />
+      <file href="mobile/6JKeQEHvDW4_P_0_24_1920_1056.png" />
+      <file href="story_content/6B2MgOoYEax_44100_48_0.mp3" />
+      <file href="mobile/5yKETptQNKs_P_0_24_1920_910.png" />
+      <file href="mobile/6Kyaj3oKwiU_P_0_24_1920_1056.png" />
+      <file href="story_content/5xOtNIuNYrc_44100_48_0.mp3" />
+      <file href="mobile/6jwuESALi5X_P_0_24_877_151.png" />
+      <file href="story_content/6fljDDrDdqZ_44100_48_0.mp3" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="mobile/6SE1u4X5AYw.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5d2t6DlNpYd.js" />
+      <file href="html5/data/js/5iCUWORkTGN.js" />
+      <file href="html5/data/js/5kqzjF154K5.js" />
+      <file href="html5/data/js/5lBr9KmK47E.js" />
+      <file href="html5/data/js/65hyFi21gev.js" />
+      <file href="html5/data/js/67KgFau7z3u.js" />
+      <file href="html5/data/js/6BAN7iqUGZW.js" />
+      <file href="html5/data/js/6cagAxnahZc.js" />
+      <file href="html5/data/js/6DSsK7QrwtH.js" />
+      <file href="html5/data/js/6f45GNEzhZO.js" />
+      <file href="html5/data/js/6iKzdyzvpAt.js" />
+      <file href="html5/data/js/6j1s5Sam9sg.js" />
+      <file href="html5/data/js/6kcYJiMuJQu.js" />
+      <file href="html5/data/js/6Z2FxQtjBrF.js" />
+      <file href="html5/data/js/6ZD7i86QLJp.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

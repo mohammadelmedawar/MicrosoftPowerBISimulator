@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to Clean and Trim data in Power Query</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_Clean_and_Trim_data_in_Power_Query_ORG">
+    <organization identifier="How_to_Clean_and_Trim_data_in_Power_Query_ORG">
+      <title>How to Clean and Trim data in Power Query</title>
+      <item identifier="How_to_add_a_background_to_a_worksheet_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to Clean and Trim data in Power Query</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5e1tvQyl0Xu_P_0_24_1920_1056.png" />
+      <file href="story_content/61YgyNu4IvF_44100_48_0.mp3" />
+      <file href="mobile/66xl5SC1ubV_P_231_210_247_47.png" />
+      <file href="story_content/5xzR0i3NdMl_44100_48_0.mp3" />
+      <file href="mobile/5uxKPzWGNqN_P_0_24_1920_910.png" />
+      <file href="mobile/69m8JJFpcfD_P_0_24_1920_1056.png" />
+      <file href="story_content/62HOYHTRZry_44100_48_0.mp3" />
+      <file href="mobile/5rbjGbt664l_P_0_24_1920_910.png" />
+      <file href="mobile/60ylBHLVUZn_P_0_24_1920_1056.png" />
+      <file href="story_content/6FV0uh8kRef_44100_48_0.mp3" />
+      <file href="mobile/6NCJZ8ZmZIf_P_0_24_1920_910.png" />
+      <file href="mobile/6cmEAdZKHUA_P_0_24_1920_1056.png" />
+      <file href="story_content/6HIQuUcvGdQ_44100_48_0.mp3" />
+      <file href="mobile/6QCwrx2GpOu_P_0_24_1920_910.png" />
+      <file href="mobile/6mNiyExn0DR_P_0_24_1920_1056.png" />
+      <file href="story_content/6OrtZrPhbQ0_44100_48_0.mp3" />
+      <file href="mobile/6jo3XizIgmA_P_0_24_1920_910.png" />
+      <file href="mobile/5tsUBvwAT0Z_P_0_24_1920_1056.png" />
+      <file href="story_content/5risLi2jkE7_44100_48_0.mp3" />
+      <file href="mobile/5scclVcjFHV_P_0_24_1920_910.png" />
+      <file href="mobile/5qG9DxhzrAs_P_0_24_1920_1056.png" />
+      <file href="story_content/5k1cAsJ1hAX_44100_48_0.mp3" />
+      <file href="mobile/6jwuESALi5X_P_0_24_1920_910.png" />
+      <file href="story_content/68sTrxHQtEG_44100_48_0.mp3" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="mobile/6SE1u4X5AYw.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aYHaCBLWAs.js" />
+      <file href="html5/data/js/5eXDP8EO0UR.js" />
+      <file href="html5/data/js/5iCUWORkTGN.js" />
+      <file href="html5/data/js/5lBr9KmK47E.js" />
+      <file href="html5/data/js/5mBmLf7xfbP.js" />
+      <file href="html5/data/js/6BAN7iqUGZW.js" />
+      <file href="html5/data/js/6CwpARQvqWv.js" />
+      <file href="html5/data/js/6SnGZCg9SQt.js" />
+      <file href="html5/data/js/6SUWFyDdP62.js" />
+      <file href="html5/data/js/6XC0t57UjiL.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

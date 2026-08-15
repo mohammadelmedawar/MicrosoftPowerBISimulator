@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5ZkCg7Asgn8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to add Conditional Formatting - Top 1 and Bottom 1 at the same time</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_add_Conditional_Formatting_-_Top_1_and_Bottom_1_at_the_same_time_ORG">
+    <organization identifier="How_to_add_Conditional_Formatting_-_Top_1_and_Bottom_1_at_the_same_time_ORG">
+      <title>How to add Conditional Formatting - Top 1 and Bottom 1 at the same time</title>
+      <item identifier="How_to_add_a_background_to_a_worksheet_SCO" isvisible="true" identifierref="__5ZkCg7Asgn8_RES">
+        <title>How to add Conditional Formatting - Top 1 and Bottom 1 at the same time</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5ZkCg7Asgn8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6BvSv9SiPiQ_P_0_42_1920_1038.png" />
+      <file href="story_content/6e0J7U2qsl9_44100_48_0.mp3" />
+      <file href="mobile/6OommehrhYX_P_0_42_1920_1038.png" />
+      <file href="story_content/6fdFVD6lXAn_44100_48_0.mp3" />
+      <file href="mobile/6HXvswVlj6g_P_0_42_1920_912.png" />
+      <file href="mobile/6HXvswVlj6g_P_0_42_1920_1038.png" />
+      <file href="story_content/5w50RfW1ATN_44100_48_0.mp3" />
+      <file href="mobile/6JB6BuC5EdQ_P_0_42_1920_912.png" />
+      <file href="mobile/64gntDMYju7_P_0_42_1920_1038.png" />
+      <file href="story_content/5k2M5CI6WU2_44100_48_0.mp3" />
+      <file href="mobile/6Ojscxt4EQ2_P_0_42_1920_1038.png" />
+      <file href="story_content/6B6Eik0srIH_44100_48_0.mp3" />
+      <file href="mobile/67ZgbKfl6aw_P_0_42_1920_912.png" />
+      <file href="mobile/6ifExiG90D4_P_0_42_1920_1038.png" />
+      <file href="story_content/61DeqNOs6BJ_44100_48_0.mp3" />
+      <file href="mobile/6hrs1VnPhpH_P_0_42_1920_1038.png" />
+      <file href="story_content/6HqCvcz4H24_44100_48_0.mp3" />
+      <file href="mobile/5ZFbDL5pNNv_P_0_42_1920_912.png" />
+      <file href="mobile/5bwuwbg8gV3_P_0_42_1920_1038.png" />
+      <file href="story_content/5tLZSzNg1yf_44100_48_0.mp3" />
+      <file href="mobile/6FvFVXJV3a0_P_0_42_1920_1038.png" />
+      <file href="mobile/5WVjrslCNad.png" />
+      <file href="story_content/6R3T1QD58hz_44100_48_0.mp3" />
+      <file href="mobile/61zjFHkRB6a_P_0_42_1920_1038.png" />
+      <file href="story_content/6UZoM8lVJCF_44100_48_0.mp3" />
+      <file href="mobile/68qWndHOKNK_P_0_42_1920_1038.png" />
+      <file href="mobile/5aZnBMkTst4_P_0_42_1920_1038.png" />
+      <file href="mobile/5oPKkPTo1TU_P_0_42_1920_1038.png" />
+      <file href="story_content/6WMZ52uCzIa_44100_48_0.mp3" />
+      <file href="mobile/6A3l7SJr8oO_P_0_42_1920_910.png" />
+      <file href="mobile/6VNuU6eChaS_P_0_42_1920_1038.png" />
+      <file href="story_content/5mj7qpqlzvt_44100_48_0.mp3" />
+      <file href="mobile/6VNuU6eChaS_P_0_42_1920_912.png" />
+      <file href="mobile/65WX2T3Vpc4_P_0_42_1920_1038.png" />
+      <file href="story_content/6PYxJv0rqFN_44100_48_0.mp3" />
+      <file href="mobile/6Jgdt3fDwFS_P_0_42_1920_1038.png" />
+      <file href="story_content/5Ye6k99jBFi_44100_48_0.mp3" />
+      <file href="mobile/5nB2XeLWZMr_P_0_42_1920_1038.png" />
+      <file href="story_content/5dAnAEHhRWj_44100_48_0.mp3" />
+      <file href="mobile/6UsTAr8Id9S_P_0_42_1920_1038.png" />
+      <file href="story_content/5pLZvDkLm5W_44100_48_0.mp3" />
+      <file href="mobile/5yxcHMEW9GK_P_0_42_1920_910.png" />
+      <file href="mobile/6AZLagsUGvW_P_0_42_1920_1038.png" />
+      <file href="story_content/5cez4VQh2Mz_44100_48_0.mp3" />
+      <file href="mobile/6Ta1BdekM37_P_0_42_1920_1038.png" />
+      <file href="story_content/60y8LZRPSWB_44100_48_0.mp3" />
+      <file href="mobile/6HSUTvzhwz8_P_0_42_1920_910.png" />
+      <file href="mobile/5vvpbTWYCIp_P_0_42_1920_1038.png" />
+      <file href="story_content/6ZMcunvKOcc_44100_48_0.mp3" />
+      <file href="mobile/63ZGenk4NvL_P_0_42_1920_1038.png" />
+      <file href="story_content/63Eqt8Kn6WY_44100_48_0.mp3" />
+      <file href="mobile/6RHJtE1x4k6_P_0_42_1920_912.png" />
+      <file href="mobile/5isEYYhkDl4_P_0_42_1920_1038.png" />
+      <file href="story_content/5ityw5gEYeL_44100_48_0.mp3" />
+      <file href="mobile/6S4aQmOAQI4_P_0_42_1920_912.png" />
+      <file href="mobile/68G7ZaTrHv5_P_0_42_1920_1038.png" />
+      <file href="story_content/5kF3N5dsr5O_44100_48_0.mp3" />
+      <file href="mobile/6SE1u4X5AYw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gWJK1U7uUd.js" />
+      <file href="html5/data/js/5iy65klZvFa.js" />
+      <file href="html5/data/js/5kn0oJBNNhC.js" />
+      <file href="html5/data/js/5rQ25BhwdCp.js" />
+      <file href="html5/data/js/5yOapilS4Jd.js" />
+      <file href="html5/data/js/61WLorVGy6U.js" />
+      <file href="html5/data/js/64SBGGq0iRD.js" />
+      <file href="html5/data/js/65vimtaXebL.js" />
+      <file href="html5/data/js/66WcIS3AlAs.js" />
+      <file href="html5/data/js/6aa6dmaeJ2i.js" />
+      <file href="html5/data/js/6bhAOS7D2qC.js" />
+      <file href="html5/data/js/6dlHUFivlZq.js" />
+      <file href="html5/data/js/6Fj6xOnpCwz.js" />
+      <file href="html5/data/js/6FLfZphU34b.js" />
+      <file href="html5/data/js/6KxHlHtKA0T.js" />
+      <file href="html5/data/js/6LYnPXEbNdi.js" />
+      <file href="html5/data/js/6m5VyQyWgVz.js" />
+      <file href="html5/data/js/6NkAdQtTTiB.js" />
+      <file href="html5/data/js/6O0hk3VMumK.js" />
+      <file href="html5/data/js/6ogQuwnTQBV.js" />
+      <file href="html5/data/js/6rahvMpIL2Z.js" />
+      <file href="html5/data/js/6roHmcFZoq5.js" />
+      <file href="html5/data/js/6VROMHq1yGd.js" />
+      <file href="html5/data/js/6WiGJait1Fq.js" />
+      <file href="html5/data/js/6WtoK7D2WHy.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.94.33511.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:05.962%0D%0AThe%20card:%20We%20can%20do%20one%20field%20only%20and%20top%20one%20only.%20Click%20next%20to%20continue.%0D%0A%0D%0A"}')
