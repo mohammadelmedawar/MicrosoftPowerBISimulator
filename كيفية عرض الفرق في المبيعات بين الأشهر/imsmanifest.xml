@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_614mXOo8WE7" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">كيفية عرض الفرق في المبيعات بين الأشهر</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="كيفية_عرض_الفرق_في_المبيعات_بين_الأشهر_ORG">
+    <organization identifier="كيفية_عرض_الفرق_في_المبيعات_بين_الأشهر_ORG">
+      <title>كيفية عرض الفرق في المبيعات بين الأشهر</title>
+      <item identifier="How_to_add_a_background_to_a_worksheet_SCO" isvisible="true" identifierref="__614mXOo8WE7_RES">
+        <title>كيفية عرض الفرق في المبيعات بين الأشهر</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__614mXOo8WE7_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6TLgmDG7F7W_P_0_42_1920_1038.png" />
+      <file href="story_content/6kMGFiH3vuB_44100_48_0.mp3" />
+      <file href="mobile/6fNo3kXbSyn_P_0_42_1920_858.png" />
+      <file href="mobile/6LKjzC88BEd_P_0_42_1920_1038.png" />
+      <file href="mobile/6BTbALmOtn5_P_1693_389_227_29.png" />
+      <file href="mobile/62Oigz9IScT_P_1693_389_227_29.png" />
+      <file href="story_content/628aiG5EQaD_44100_48_0.mp3" />
+      <file href="mobile/657VEQgYxmz_P_0_42_1920_1038.png" />
+      <file href="mobile/6fcisr1LGAF_P_1693_445_227_34.png" />
+      <file href="mobile/6CvtW5PCZCa_P_1693_445_227_34.png" />
+      <file href="story_content/6gehPAyKA9S_44100_48_0.mp3" />
+      <file href="mobile/6NbpDVyzvZw_P_0_42_1920_1038.png" />
+      <file href="story_content/6iWdW8utobC_44100_48_0.mp3" />
+      <file href="mobile/6bhigMYzHdl_P_0_42_1920_1038.png" />
+      <file href="story_content/6Iq1zDOILlx_44100_48_0.mp3" />
+      <file href="mobile/6pPPUiwzb4O_P_0_42_1920_1038.png" />
+      <file href="story_content/5g8UydxQS6Q_44100_48_0.mp3" />
+      <file href="mobile/5shTeFmRT1G_P_0_42_1920_1038.png" />
+      <file href="story_content/6G5447r1T4Q_44100_48_0.mp3" />
+      <file href="mobile/6ph24drKBwr_P_0_42_1920_908.png" />
+      <file href="mobile/6BLu325KTm1_P_0_42_1920_1038.png" />
+      <file href="story_content/5u5yY2xkA9U_44100_48_0.mp3" />
+      <file href="mobile/6oAHVI0ns34_P_0_42_1920_1038.png" />
+      <file href="story_content/6nLRdl9PIVk_44100_48_0.mp3" />
+      <file href="mobile/6K3ySD5TkFR_P_0_42_1920_1038.png" />
+      <file href="story_content/5yBEE7A9jJ7_44100_48_0.mp3" />
+      <file href="mobile/61AMOSTgNUE_P_0_42_1920_888.png" />
+      <file href="mobile/6WRGKpstezA_P_0_42_1920_1038.png" />
+      <file href="mobile/6mBuD1rpPgl_P_1373_983_87_47.png" />
+      <file href="mobile/6pL9rE2xOB3_P_1373_983_87_47.png" />
+      <file href="story_content/60Fb2xmd7nN_44100_48_0.mp3" />
+      <file href="mobile/6AYpCIN7Ou8_P_0_42_1920_1038.png" />
+      <file href="story_content/6l2796wf2x3_44100_48_0.mp3" />
+      <file href="mobile/5qvEmuRXO0W_P_0_42_1920_1038.png" />
+      <file href="story_content/6kOzDd3OknO_44100_48_0.mp3" />
+      <file href="mobile/6LfbHxCCT18_P_0_42_1920_1038.png" />
+      <file href="story_content/66VIzGPzMmw_44100_48_0.mp3" />
+      <file href="mobile/6KFVMTMgzj5.jpg" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5q9kPpfSJr5.js" />
+      <file href="html5/data/js/5uhWWj7iG1i.js" />
+      <file href="html5/data/js/5yfCLX3hRH8.js" />
+      <file href="html5/data/js/5yltjy8Gf0o.js" />
+      <file href="html5/data/js/60kjf3MunOl.js" />
+      <file href="html5/data/js/6dKqQjkiM9x.js" />
+      <file href="html5/data/js/6fnj7yEZiXF.js" />
+      <file href="html5/data/js/6GRRGOGmPjm.js" />
+      <file href="html5/data/js/6kFEsyyg9iJ.js" />
+      <file href="html5/data/js/6kIcLbbG9Gi.js" />
+      <file href="html5/data/js/6PmenJgfD9J.js" />
+      <file href="html5/data/js/6qDnBSQ5ygS.js" />
+      <file href="html5/data/js/6RqZ94dSRmp.js" />
+      <file href="html5/data/js/6rW6w8P4FZb.js" />
+      <file href="html5/data/js/6X4UVib1lfr.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

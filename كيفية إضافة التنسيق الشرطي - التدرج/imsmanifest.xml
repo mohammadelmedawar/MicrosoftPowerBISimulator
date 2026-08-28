@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5ZkCg7Asgn8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">كيفية إضافة التنسيق الشرطي - التدرج</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="كيفية_إضافة_التنسيق_الشرطي_-_التدرج_ORG">
+    <organization identifier="كيفية_إضافة_التنسيق_الشرطي_-_التدرج_ORG">
+      <title>كيفية إضافة التنسيق الشرطي - التدرج</title>
+      <item identifier="How_to_add_a_background_to_a_worksheet_SCO" isvisible="true" identifierref="__5ZkCg7Asgn8_RES">
+        <title>كيفية إضافة التنسيق الشرطي - التدرج</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5ZkCg7Asgn8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6WxGDYFEClJ_P_0_42_1920_1038.png" />
+      <file href="story_content/663Mnxg8Qma_44100_48_0.mp3" />
+      <file href="mobile/60E186L68Yu_P_0_42_1920_1038.png" />
+      <file href="story_content/65tNMla0ZA4_44100_48_0.mp3" />
+      <file href="mobile/5fQK63DIal9_P_0_42_1920_1038.png" />
+      <file href="story_content/5t3oyxldsXR_44100_48_0.mp3" />
+      <file href="mobile/5eTAnFObCNJ_P_0_42_1920_908.png" />
+      <file href="mobile/5bycK6ELEKs_P_0_42_1920_1038.png" />
+      <file href="story_content/6r59th0gbyo_44100_48_0.mp3" />
+      <file href="mobile/6Di1ilPuzGm_P_0_42_1920_908.png" />
+      <file href="mobile/6WgUR7EQ8aZ_P_0_42_1920_1038.png" />
+      <file href="story_content/5kLoMEh0054_44100_48_0.mp3" />
+      <file href="mobile/6lp36oCBB4i_P_0_42_1920_1038.png" />
+      <file href="story_content/614crx27BtE_44100_48_0.mp3" />
+      <file href="mobile/6e7bYs0QzIk_P_0_42_1920_1038.png" />
+      <file href="story_content/6nNwesTWWI3_44100_48_0.mp3" />
+      <file href="mobile/6RQOC6nGUCz_P_0_42_1920_908.png" />
+      <file href="mobile/60FtAPF4fnF_P_0_42_1920_1038.png" />
+      <file href="story_content/6Veya5TpLca_44100_48_0.mp3" />
+      <file href="mobile/6GNVlWO0I3i_P_0_42_1920_908.png" />
+      <file href="mobile/5fHnXYIOMss_P_0_42_1920_1038.png" />
+      <file href="story_content/6IvWTIJrB6R_44100_48_0.mp3" />
+      <file href="mobile/6EytF7yVInN_P_0_42_1920_908.png" />
+      <file href="mobile/6hSv3TdtNJL_P_0_42_1920_1038.png" />
+      <file href="story_content/5wthpixLzLB_44100_48_0.mp3" />
+      <file href="mobile/5Y8z0k7iNGT_P_0_42_1920_908.png" />
+      <file href="mobile/6rUrSq9redM_P_0_42_1920_1038.png" />
+      <file href="story_content/5aYRXnbZiln_44100_48_0.mp3" />
+      <file href="mobile/6IbihHVu3hj_P_0_42_1920_908.png" />
+      <file href="mobile/6FYFVzcLjKC_P_0_42_1920_1038.png" />
+      <file href="story_content/6qiCzaHcOUM_44100_48_0.mp3" />
+      <file href="mobile/6FYFVzcLjKC_P_0_42_1920_908.png" />
+      <file href="mobile/6QAtcr6RU9e_P_0_42_1920_1038.png" />
+      <file href="story_content/6ARGiXwepdL_44100_48_0.mp3" />
+      <file href="mobile/5ZyzypfL7X3_P_0_42_1920_1038.png" />
+      <file href="story_content/6Y0K806i4fl_44100_48_0.mp3" />
+      <file href="mobile/6FDW1F1qTpA_P_0_42_1920_1038.png" />
+      <file href="story_content/6ItybRDAAvL_44100_48_0.mp3" />
+      <file href="mobile/6QxkTt9BcmB_P_0_42_1920_1038.png" />
+      <file href="story_content/5iOYisxBP0u_44100_48_0.mp3" />
+      <file href="mobile/64ys9q9YK8M_P_0_42_1920_908.png" />
+      <file href="mobile/6pfEIOXZhUn_P_0_42_1920_1038.png" />
+      <file href="story_content/6OphhscqQO2_44100_48_0.mp3" />
+      <file href="mobile/5zBS5LZRGKy.jpg" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gpXFU9wL8q.js" />
+      <file href="html5/data/js/5gWJK1U7uUd.js" />
+      <file href="html5/data/js/5kn0oJBNNhC.js" />
+      <file href="html5/data/js/5sFJVdad27i.js" />
+      <file href="html5/data/js/5sPFczsIyU1.js" />
+      <file href="html5/data/js/5sRMncMwsdb.js" />
+      <file href="html5/data/js/5yOapilS4Jd.js" />
+      <file href="html5/data/js/6bhAOS7D2qC.js" />
+      <file href="html5/data/js/6BOmCrRpxxh.js" />
+      <file href="html5/data/js/6dlHUFivlZq.js" />
+      <file href="html5/data/js/6Fj6xOnpCwz.js" />
+      <file href="html5/data/js/6FLfZphU34b.js" />
+      <file href="html5/data/js/6KxHlHtKA0T.js" />
+      <file href="html5/data/js/6qbfg3hfdEw.js" />
+      <file href="html5/data/js/6rahvMpIL2Z.js" />
+      <file href="html5/data/js/6roHmcFZoq5.js" />
+      <file href="html5/data/js/6WiGJait1Fq.js" />
+      <file href="html5/data/js/6WtoK7D2WHy.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

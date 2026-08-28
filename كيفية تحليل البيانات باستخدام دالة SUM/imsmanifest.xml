@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6CRHNzCc4yd" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none"> كيفية تحليل البيانات باستخدام دالة SUM</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="_كيفية_تحليل_البيانات_باستخدام_دالة_SUM_ORG">
+    <organization identifier="_كيفية_تحليل_البيانات_باستخدام_دالة_SUM_ORG">
+      <title> كيفية تحليل البيانات باستخدام دالة SUM</title>
+      <item identifier="How_to_add_a_background_to_a_worksheet_SCO" isvisible="true" identifierref="__6CRHNzCc4yd_RES">
+        <title> كيفية تحليل البيانات باستخدام دالة SUM</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6CRHNzCc4yd_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6UdWwrlqDIP_P_0_42_1920_1038.png" />
+      <file href="story_content/63BKwdEB2uh_44100_48_0.mp3" />
+      <file href="mobile/5yQjRg0N0Kt_P_0_42_1920_908.png" />
+      <file href="mobile/6O8KCyyK12N_P_0_42_1920_1038.png" />
+      <file href="mobile/6fcisr1LGAF_P_1693_445_227_34.png" />
+      <file href="mobile/6CvtW5PCZCa_P_1693_445_227_34.png" />
+      <file href="story_content/5XAhnHET2fp_44100_48_0.mp3" />
+      <file href="mobile/6mPbfKnwGFl_P_0_42_1920_1038.png" />
+      <file href="story_content/5vpx0fon8Bl_44100_48_0.mp3" />
+      <file href="mobile/5WkQfU1iboG_P_0_42_1920_908.png" />
+      <file href="mobile/5vP5EVI1mSL_P_0_42_1920_1038.png" />
+      <file href="story_content/6jb5znBF9dK_44100_48_0.mp3" />
+      <file href="mobile/65eAlbRVYSS.jpg" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5daksakTgo5.js" />
+      <file href="html5/data/js/5eXDP8EO0UR.js" />
+      <file href="html5/data/js/5uxKxzsAyMB.js" />
+      <file href="html5/data/js/68LP5L7Tb1u.js" />
+      <file href="html5/data/js/69ARmCqyFK8.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
